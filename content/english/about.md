@@ -67,6 +67,7 @@ skill:
         - name : "SQL"
         - name : "PostgreSQL"
         - name : "SQLite"
+        - name : "Docker"
         - name : "TCP/IP Networks"
         - name : "WireShark"
         - name : "Charles"
