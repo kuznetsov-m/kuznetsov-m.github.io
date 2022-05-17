@@ -89,4 +89,6 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Professional desktop/backend developer. I love code.
+Professional desktop/backend developer. I love code. <br>
+C++ commercial experience software development. <br>
+Python freelance projects.

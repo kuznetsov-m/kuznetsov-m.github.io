@@ -90,4 +90,5 @@ custom_css: ""
 ---
 
 Предпочитаю desktop/backend направление разработки. <br>
-Freelance python проекты.
+Использую С++ в работе над коммерческими проектами. <br>
+Python - freelance проекты.

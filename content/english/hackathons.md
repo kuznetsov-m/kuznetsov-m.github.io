@@ -21,14 +21,14 @@ experience:
       "
       
     - name : "Junction 2019 (Helsinki)"
-      company : "Track: Security Awareness for Kids (компания Ericsson). Prize-winners"
+      company : "Track: Security Awareness for Kids (Ericsson Inc). Prize-winners"
       duration : ""
       content : "Quest in reality development. <br>
       I created a flask backend server for managing bluetooth devices. Implementation proprietary protocols for bluetooth devices and android app
       "
 
     - name : "Diversity.Hack 2019 (Moscow)"
-      company : "Track: My Office (1 место)"
+      company : "Track: My Office (1 place)"
       duration : ""
       content : "Document comparison service development. <br>
       Development and implementation of an algorithm, also flask backend. <br>
