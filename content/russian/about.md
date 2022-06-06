@@ -74,8 +74,9 @@ skill:
 
     - name : "Blockchain"
       tags_list:
-        - name : "Solana"
-        - name : "Rust"
+        - name : "Solidity"
+        - name : "Hardhat"
+        - name : "Rust(Solana)"
 
     - name : "IoT"
       tags_list:
