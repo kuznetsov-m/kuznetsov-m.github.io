@@ -81,6 +81,10 @@ icon = "fab fa-github"
 link = "https://github.com/kuznetsov-m"
 
 [[params.social]]
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/kuznetsov1024/"
+
+[[params.social]]
 icon = "fab fa-stack-overflow"
 link = "https://stackoverflow.com/users/10504918/mike"
 
@@ -104,9 +108,6 @@ link = "mailto:publickm@yandex.com"
 #icon = "fab fa-twitter"
 #link = "https://twitter.com/"
 
-#[[params.social]]
-#icon = "fab fa-linkedin"
-#link = "https://www.linkedin.com/in/"
 
 ################################### English language #####################################
 [Languages.en]

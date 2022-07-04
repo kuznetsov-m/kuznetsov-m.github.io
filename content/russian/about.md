@@ -62,6 +62,17 @@ skill:
         - name : "psycopg2"
         - name : "sqlite3"
 
+    - name : "Blockchain"
+      tags_list:
+        - name : "Solidity"
+        - name : "OpenZeppelin"
+        - name : "Hardhat"
+        - name : "Ethers"
+        - name : "Waffle"
+        - name : "Chai"
+        - name : "Node.js"
+        - name : "Rust(Solana)"
+
     - name : "Other"
       tags_list:
         - name : "SQL"
@@ -71,12 +82,6 @@ skill:
         - name : "TCP/IP Networks"
         - name : "WireShark"
         - name : "Charles"
-
-    - name : "Blockchain"
-      tags_list:
-        - name : "Solidity"
-        - name : "Hardhat"
-        - name : "Rust(Solana)"
 
     - name : "IoT"
       tags_list:
@@ -90,6 +95,7 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Предпочитаю desktop/backend направление разработки. <br>
-Использую С++ в работе над коммерческими проектами. <br>
-Python - freelance проекты.
+Предпочитаю backend/desktop направление разработки. <br>
+6+ лет использую <b>С++</b> в работе над коммерческими проектами. <br>
+<b>Python</b> freelance/part-time проекты. <br>
+Изучаю <b>blockchain</b> разработку на <b>Solidity</b> и <b>Node.js</b>.

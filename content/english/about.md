@@ -10,7 +10,7 @@ experience:
     - name : "Playrix"
       company : "playrix.com"
       duration : "2021-2022"
-      content : "C++ Developer, Wildscapes project. Platforms: iOS, Android, Win <br>
+      content : "C++ Software Engineer, Wildscapes mobile game project. Platforms: iOS, Android, Win <br>
       App development: player progress data, game telemetry. Side SDK's integration. <br>
       C++ 17, cmake, in-house SDK's, Python 3 (logging, inhouse libs)<br>
       IDE: MS VS, MS VS Code, Xcode <br>
@@ -28,7 +28,7 @@ experience:
     - name : "NPP Radiosvyaz"
       company : "krtz.su"
       duration : "2015-2018"
-      content : "Satellite telecommunications station software developer (Win, Linux). <br>
+      content : "Satellite telecommunications station software engineer (Win, Linux). <br>
       Development of management modules for TCP/IP telecommunications equipment. Management via ARP, Telnet, SNMP, and other proprietary protocols. Legacy code updates. <br>
       C++ 11, STL, Qt5. Qt Creator, WireShark <br>
       "
@@ -62,6 +62,17 @@ skill:
         - name : "psycopg2"
         - name : "sqlite3"
 
+    - name : "Blockchain"
+      tags_list:
+        - name : "Solidity"
+        - name : "OpenZeppelin"
+        - name : "Hardhat"
+        - name : "Ethers"
+        - name : "Waffle"
+        - name : "Chai"
+        - name : "Node.js"
+        - name : "Rust(Solana)"
+
     - name : "Other"
       tags_list:
         - name : "SQL"
@@ -71,12 +82,6 @@ skill:
         - name : "TCP/IP Networks"
         - name : "WireShark"
         - name : "Charles"
-
-    - name : "Blockchain"
-      tags_list:
-        - name : "Solidity"
-        - name : "Hardhat"
-        - name : "Rust(Solana)"
 
     - name : "IoT"
       tags_list:
@@ -90,6 +95,6 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Professional desktop/backend developer. I love code. <br>
-C++ commercial experience software development. <br>
-Python freelance projects.
+6+ years professional backend/desktop software engineer. I love code.<br>
+<b>C++ commercial</b> experience software development.<br>
+<b>Python freelance</b> projects. <b>Blockchain</b> beginner developer.

@@ -5,7 +5,7 @@ experience:
   enable : true
   title : "ХАКАТОНЫ"
   experience_list:
-    - name : "Solana Season Hackathon (online)"
+    - name : "Solana Season Hackathon 2021 (online)"
       company : "Трек: DeFi Восточная Европа (2 место)"
       duration : ""
       content : "[Solaris Protocol](https://solarisprotocol.com). Разработка протокола быстрых займов.<br>
